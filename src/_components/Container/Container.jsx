@@ -83,4 +83,3 @@ class ContainerAppView extends Component {
 }
 
 export default ContainerAppView;
-
